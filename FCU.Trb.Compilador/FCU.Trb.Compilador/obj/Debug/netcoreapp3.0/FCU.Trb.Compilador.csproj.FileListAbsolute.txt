@@ -1,0 +1,11 @@
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\bin\Debug\netcoreapp3.0\FCU.Trb.Compilador.exe
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\bin\Debug\netcoreapp3.0\FCU.Trb.Compilador.deps.json
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\bin\Debug\netcoreapp3.0\FCU.Trb.Compilador.runtimeconfig.json
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\bin\Debug\netcoreapp3.0\FCU.Trb.Compilador.runtimeconfig.dev.json
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\bin\Debug\netcoreapp3.0\FCU.Trb.Compilador.dll
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\bin\Debug\netcoreapp3.0\FCU.Trb.Compilador.pdb
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\obj\Debug\netcoreapp3.0\FCU.Trb.Compilador.csprojAssemblyReference.cache
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\obj\Debug\netcoreapp3.0\FCU.Trb.Compilador.AssemblyInfoInputs.cache
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\obj\Debug\netcoreapp3.0\FCU.Trb.Compilador.AssemblyInfo.cs
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\obj\Debug\netcoreapp3.0\FCU.Trb.Compilador.dll
+C:\Users\AlanEremita\source\repos\CompiladorUNI\FCU.Trb.Compilador\FCU.Trb.Compilador\obj\Debug\netcoreapp3.0\FCU.Trb.Compilador.pdb
